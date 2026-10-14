@@ -1,4 +1,4 @@
-![SQL Databases Comparison](assets/sql-databases-comparison.png)
+![SQL Databases Comparison](assets/a_detailed_infographic_poster_on_a_dark_blue_tech.png)
 
 # SQL Databases Explained: MySQL vs PostgreSQL vs Oracle vs SQL Server
 
